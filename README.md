@@ -13,7 +13,7 @@ docker run -it --rm -p 8080:8080 banin010/drone_sim
 
 After running these commands in terminal, connect to http://localhost:8080 via your browser.
 
-## This project contains multiple extensions made and integrated after completion
+## Extensions Made After Completion using Agile Sprints
 
 ### ATC control
 
